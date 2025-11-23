@@ -1,7 +1,7 @@
 # Agentic-AI-LanggraphQA
 Agentic-AI-LanggraphQA
 
-A small collection of example notebooks and scripts that demonstrate simple LLM workflows using LangGraph, LangChain, and Google GenAI. The repo is for experimentation and learning.
+A small collection of example notebooks and scripts that demonstrate simple LLM workflows using LangGraph, LangChain, and Google GenAI. The repo is for experimentation and learnings.
 
 Contents
 - Example notebooks (`*.ipynb`) demonstrating prompt-chaining and workflow patterns.
