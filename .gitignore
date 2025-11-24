@@ -135,6 +135,14 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 .langgraph_env
 .langgraph_env
 .langgraph_env
